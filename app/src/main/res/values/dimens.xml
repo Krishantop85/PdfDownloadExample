@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="_20dp">20dp</dimen>
+    <dimen name="_335dp">335dp</dimen>
+    <dimen name="_47dp">47dp</dimen>
+    <dimen name="_110dp">110dp</dimen>
+    <dimen name="_70dp">70dp</dimen>
+    <dimen name="_80dp">80dp</dimen>
+    <dimen name="grid_layout_margin">8dp</dimen>
+    <!--Font Size-->
+
+    <dimen name="_16fs">16sp</dimen>
+    <dimen name="_14fs">14sp</dimen>
+    <dimen name="_18fs">18sp</dimen>
+    <dimen name="_20fs">20sp</dimen>
+    <dimen name="_24fs">24sp</dimen>
+    <dimen name="_40fs">40sp</dimen>
+
+
+</resources>
